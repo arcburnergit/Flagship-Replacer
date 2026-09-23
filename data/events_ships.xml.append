@@ -1,0 +1,5 @@
+<FTL>
+<mod:findLike type="ship">
+	<mod:setAttributes auto_blueprint="REPLACER_BOSS_1_NORMAL"/>
+</mod:findLike>
+</FTL>	

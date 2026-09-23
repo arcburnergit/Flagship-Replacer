@@ -1,0 +1,7 @@
+<FTL>
+<events>
+	<bossShip>REPLACER_BOSS_1_EASY</bossShip>
+	<bossShip>REPLACER_BOSS_1_NORMAL</bossShip>
+	<bossShip>REPLACER_BOSS_1_HARD</bossShip>
+</events>
+</FTL>
